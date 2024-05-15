@@ -1,0 +1,6 @@
+[submodule "employee-management-application-react"]
+	path = employee-management-application-react
+	url = https://github.com/Ansu-s/employee-management-application-react.git
+[submodule "employee-management-application-springboot"]
+	path = employee-management-application-springboot
+	url = https://github.com/Ansu-s/employee-management-application-springboot.git
