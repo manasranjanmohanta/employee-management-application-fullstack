@@ -4,3 +4,6 @@
 [submodule "employee-management-application-springboot"]
 	path = employee-management-application-springboot
 	url = https://github.com/Ansu-s/employee-management-application-springboot.git
+[submodule "hotel-management"]
+	path = hotel-management
+	url = git@github.com:manasranjanmohanta/hotel-management.git
